@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+lsi: false
+safe: true
+source: ./
+incremental: false
+highlighter: rouge
+theme: jekyll-theme-minimal
