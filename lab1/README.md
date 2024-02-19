@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Введение в XSL"
+permalink: /lab1/
 ---
 
 # Введение в XSL
@@ -11,10 +12,10 @@ title: "Введение в XSL"
 
 Написание XSLT-стилей для MathML.
 
-[Просмотр XML](../task1/math.xml)
+[Просмотр XML](task1/math.xml)
 
 ## Задание 2
 
 Написание XSLT-преобразования для SVG.
 
-[Просмотр XML](../task2/graphics.xml)
+[Просмотр XML](task2/graphics.xml)
