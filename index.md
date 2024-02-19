@@ -5,7 +5,7 @@ title: "Веб-технологии gosvoh"
 
 # Веб-технологии 2023 - Проектирование и анализ языков веб-решений
 
-{% for lab in site.labs %}
+{% for post in site.posts %}
 
-- [{{ lab.title }}]({{ lab.url }})
+- [{{ post.title }}]({{ post.url }})
   {% endfor %}
