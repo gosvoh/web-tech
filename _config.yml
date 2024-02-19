@@ -11,4 +11,4 @@ safe: true
 source: ./
 incremental: false
 highlighter: rouge
-theme: minimal
+theme: jekyll-theme-minimal
