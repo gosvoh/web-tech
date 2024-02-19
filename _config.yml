@@ -1,6 +1,6 @@
 title: Веб-технологии
-baseurl: "web-tech"
-url: ""
+baseurl: /web-tech/
+url: https://gosvoh.github.io
 plugins:
   - jekyll-relative-links
 relative_links:
